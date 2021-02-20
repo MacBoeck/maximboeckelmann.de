@@ -3,6 +3,16 @@
   src: url('/webfont/JetBrainsMono-Regular.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'MaximsLieblingsfont-Bold';
+  src: url('/webfont/JetBrainsMono-ExtraBold.woff2') format('woff2');
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: MaximsLieblingsfont-Bold;
+}
+
+
 p {
 	font-family: MaximsLieblingsfont;
 }
