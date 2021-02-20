@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MaximsLieblingsfont';
+  src: url('/webfont/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+p {
+	font-family: MaximsLieblingsfont;
+}
